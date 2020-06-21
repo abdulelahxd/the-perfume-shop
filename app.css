@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+/* font-family: 'Lobster', cursive; */
+
+
+body{
+    background-image: url(bg\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header{
+    height: 80px;
+    width: 98%;
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 34px;
+}
+
+#formId{
+    float: left;
+    width: 200px;
+    background-color: rgba(0, 0, 0, 0.356);
+    margin-left: 90px;
+    margin-top: 40px;
+    margin-right: 80px;
+    padding: 20px;
+    height: 250px;
+}
+
+#formId label {
+    /* padding: 30px; */
+    color: white;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 24px; 
+}
+#formId input{
+    margin: 15px;
+    width: 165px;
+    height: 26px;
+    border: grey solid 0.1em;
+    border-radius: 4px;
+}
+
+#formId input:last-child{
+    width: 165px;
+    background-color: rgb(36, 36, 36);
+    color: white;
+    height: 30px;
+    font-family: 'Lobster', cursive;
+}
+
+th, td {
+  border: white solid 1px;
+  padding: 10px;
+}
+#SS {
+    float: right;
+    background-color: rgba(0, 0, 0, 0.356);
+    width: 700px;
+    margin-top: 40px;
+    margin-right: 400px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 24px;
+}
+table {
+    margin: 18px;
+}
+th{
+    background-color: rgba(0, 0, 0, 0.767);
+    padding: 15px;
+    padding-right: 80px;
+}
