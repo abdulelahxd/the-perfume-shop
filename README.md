@@ -1,6 +1,7 @@
 # the-perfume-shop
 
 it's an app to add new perfume to the list to the localstorage using javascript LS with ability to remove.
+this is my exam to pass to the next course
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -37,6 +38,9 @@ run live server on the IDE
 ## Authors
 
 * **abdulelah kassara** - *class task* - [abdulelahxd](https://github.com/abdulelahxd)
+
+## Time 
+one hour and half only
 
 ## License
 
